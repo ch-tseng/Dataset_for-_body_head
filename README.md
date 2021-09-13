@@ -1,4 +1,4 @@
-# Dataset_for_crowded_peoples 擁擠人群的頭部及身體資料集<br/> 
+# Dataset_for_crowded_peoples 群聚人群的頭部及身體資料集<br/> 
 ![image](https://github.com/ch-tseng/Dataset_for-_body_head/raw/main/nouse/eden.png)
 ## The dataset is offered by EDEN Social Welfare Foundation<br/>
 ## 本資料集由伊甸數位庇護工廠開源提供。<br/><br/>
